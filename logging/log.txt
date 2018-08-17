@@ -1,0 +1,14 @@
+2018-05-23 01:05:17,790|PID:14072|INFO: Get_token successed
+2018-05-23 01:05:22,881|PID:14072|INFO: Baidu_shibie successed
+2018-05-23 01:05:23,408|PID:14072|INFO: Turning_txt successed
+2018-05-23 01:05:24,983|PID:14072|INFO: Get_token successed
+2018-05-23 01:05:25,607|PID:14072|INFO: Baidu_hecheng successed
+2018-05-24 17:22:56,386|PID:7232|WARNING: Get_html error: <urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。>
+2018-05-24 17:22:56,417|PID:7232|WARNING: Get_token error:Expecting value: line 1 column 1 (char 0)
+2018-05-24 17:23:00,810|PID:7232|WARNING: 识别错误：3300/json param token error.
+2018-05-24 17:23:00,810|PID:7232|WARNING: Baidu_shibie error:'result'
+2018-05-24 17:23:18,714|PID:6400|INFO: Get_token successed
+2018-05-24 17:23:22,083|PID:6400|INFO: Baidu_shibie successed
+2018-05-24 17:23:22,411|PID:6400|INFO: Turning_txt successed
+2018-05-24 17:23:23,628|PID:6400|INFO: Get_token successed
+2018-05-24 17:23:23,862|PID:6400|INFO: Baidu_hecheng successed
